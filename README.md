@@ -1,11 +1,10 @@
 # Project : HR Analytics Dashboard
 ## Table of Contents:
-- [Problem Statement](problem-statement)
-- [Data Analysis using Excel](data-analysis-using-excel) 
-- [Data Cleaning](data-cleaning)
-- [Build Dashboard](build-dashboard) 
-- [Tools, Software and Libraries](tools-software-and-libraries) 
-- [References](references)
+- Problem Statement
+- Data Analysis using Excel
+- Data Cleaning
+- Build Dashboard
+- Tools & Software
 ## Problem Statement
 The HR department of a company wants to analyze employee data to understand attrition patterns and demographics within the organization. They aim to identify factors contributing to attrition and explore ways to improve employee retention.
 ## Data Analysis using Excel
@@ -20,9 +19,7 @@ A dashboard was created in Excel to visualize key HR metrics and insights. The d
 - Excel version 2021: Used for data analysis, cleaning, and visualization.
 - Functions: Utilized various Excel functions for data manipulation and calculations.
 - Charts: Excel charts were used to visualize data trends and patterns.
-## References
-•	https://www.youtube.com/@datatutorials1
-•	https://topmate.io/data_tutorials
+
 
 
 
